@@ -1,0 +1,1 @@
+A (runtime expensive) implementation of enum to string solution.
